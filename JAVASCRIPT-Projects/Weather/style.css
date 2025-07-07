@@ -149,3 +149,6 @@ body{
     margin-top: 5px;
     font-weight: 300;
 }
+.weather{
+    display: none;
+}
